@@ -1,4 +1,4 @@
-TODO List App
+TODO List App<br>
   A simple and lightweight Flask-based To‑Do List application that allows users to create, view, update, and delete tasks. 
   This project is ideal for learning basic CRUD operations, working with Flask routes, and structuring a small Python web application.
 
